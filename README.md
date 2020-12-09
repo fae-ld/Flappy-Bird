@@ -26,5 +26,5 @@ Saya men-download asset-asset dalam projek ini dari https://assetstore.unity.com
 Untuk memperbaiki error saya mendapatkan bantuan dari Google, StackOverFlow, https://forum.unity.com, dan berbagai sumber lainnya.
 
 Dalam projek ini terdapat banyak kekurangan salah satunya dalam asset karena belum lengkap.
-Saya masih kurang mengerti mengenai Unity, salah satunya adalah scripting karena memakai bahasa pemrograman C# yang saya sendiri belum menguasai materinya :))
+Saya masih kurang mengerti mengenai Unity, terutama dalam scripting karena memakai bahasa pemrograman C# yang saya sendiri belum menguasai materinya :))
 
