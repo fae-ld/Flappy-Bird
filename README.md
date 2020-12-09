@@ -11,6 +11,16 @@ Karena menurut saya game Flappy Bird ini cukup sederhana untuk dibuat :D
 
 Dalam setiap Game Object terdapat banyak component-component, dan beberapa Game Object memiliki animasi. Dalam projek ini saya tidak menambahkan Sound Effect karena belum mengerti cara mengaturnya :v
 
+Untuk membuka Script C#, ada di dalam folder Assets.
+
+Script C# : 
+Addscore.cs
+BirdScript.cs
+GameManager.cs
+Move.cs
+PipeSpawner.cs
+Score.cs
+
 Saya membuat projek ini dengan bantuan dari Channel YouTube, seperti Brackeys, Blackthornprod, Valem, Kajew Developer, dan lain-lain.
 Saya men-download asset-asset dalam projek ini dari https://assetstore.unity.com, dan beberapa dari Google.
 Untuk memperbaiki error saya mendapatkan bantuan dari Google, StackOverFlow, https://forum.unity.com, dan berbagai sumber.
