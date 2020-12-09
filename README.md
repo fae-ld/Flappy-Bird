@@ -23,7 +23,7 @@ Score.cs
 
 Saya membuat projek ini dengan bantuan dari Channel YouTube, seperti Brackeys, Blackthornprod, Valem, Kajew Developer, dan lain-lain.
 Saya men-download asset-asset dalam projek ini dari https://assetstore.unity.com, dan beberapa dari Google.
-Untuk memperbaiki error saya mendapatkan bantuan dari Google, StackOverFlow, https://forum.unity.com, dan berbagai sumber.
+Untuk memperbaiki error saya mendapatkan bantuan dari Google, StackOverFlow, https://forum.unity.com, dan berbagai sumber lainnya.
 
 Dalam projek ini terdapat banyak kekurangan salah satunya dalam asset karena belum lengkap.
 Saya masih kurang mengerti mengenai Unity, salah satunya adalah scripting karena memakai bahasa pemrograman C# yang saya sendiri belum menguasai materinya :))
