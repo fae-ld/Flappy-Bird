@@ -14,11 +14,11 @@ Dalam setiap Game Object terdapat banyak component-component, dan beberapa Game 
 Untuk membuka Script C#, ada di dalam folder Assets.
 
 Script C# : 
-Addscore.cs
-BirdScript.cs
-GameManager.cs
-Move.cs
-PipeSpawner.cs
+Addscore.cs, 
+BirdScript.cs, 
+GameManager.cs, 
+Move.cs, 
+PipeSpawner.cs, 
 Score.cs
 
 Saya membuat projek ini dengan bantuan dari Channel YouTube, seperti Brackeys, Blackthornprod, Valem, Kajew Developer, dan lain-lain.
