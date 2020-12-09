@@ -4,7 +4,7 @@ Nama : Fairuztsani Kemal Setiawan
 
 Kelas : X TKI 4
 
-Divisi : DESKTOP PROGRAMMING
+Divisi : Dekstop Programming
 
 
 Halo, ini adalah projek pertama yang berhasil saya buat di Unity Game Engine   menggunakan bahasa pemrograman C#. Dalam projek ini saya membuat game yang bernama Flappy Bird.
