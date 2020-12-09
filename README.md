@@ -5,6 +5,7 @@ Kelas : X TKI 4
 Divisi : DESKTOP PROGRAMMING
 
 Halo, ini adalah projek pertama yang berhasil saya buat di Unity Game Engine   menggunakan bahasa pemrograman C#. Dalam projek ini saya membuat game yang bernama Flappy Bird.
+Flappy Bird yang saya buat ini menggunakan Build Setting Android.
 
 Mengapa Flappy Bird?
 Karena menurut saya game Flappy Bird ini cukup sederhana untuk dibuat :D
