@@ -32,3 +32,4 @@ Untuk memperbaiki error saya mendapatkan bantuan dari Google, StackOverFlow, htt
 Dalam projek ini terdapat banyak kekurangan salah satunya dalam asset karena belum lengkap.
 Saya masih kurang mengerti mengenai Unity, terutama dalam scripting karena memakai bahasa pemrograman C# yang saya sendiri belum menguasai materinya :))
 
+https://www.mediafire.com/file/4ycjg8sp84du5vv/Flepi_Berd.apk/file
